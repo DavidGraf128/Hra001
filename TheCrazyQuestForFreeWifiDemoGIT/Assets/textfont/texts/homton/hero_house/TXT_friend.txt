@@ -1,0 +1,3 @@
+He is streaming every day at evening PM!
+His speech is at 100!
+And his name is...GameObject.Find(streamer_name_custom)!

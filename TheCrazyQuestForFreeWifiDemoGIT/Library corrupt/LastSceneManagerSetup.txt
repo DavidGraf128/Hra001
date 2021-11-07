@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Homton_SandyHole_1.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/HomtonOutside.unity
+  isLoaded: 0
+  isActive: 0

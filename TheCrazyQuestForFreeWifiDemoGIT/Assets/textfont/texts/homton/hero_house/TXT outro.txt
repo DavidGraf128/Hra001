@@ -1,0 +1,16 @@
+This concludes the demo!
+The Crazy Quest for free wifi
+Credits
+Lead Programmer Code name: PeakFace
+Level Designer: PeakFace
+Main Bug creator: PeakFace
+Lead director and writer: PeakFace
+Main composer: PeakFace
+Sound design: PeakFace
+Sprite Artwork: PeakFace
+Background artist: PeakFace
+Voice actors: PeakFace
+Game tester: Fr0stae, PeakFace
+Special Thanks to Fr0stae, Simistepi, KD and others
+Made in Unity
+@Something-bit Studios 2021

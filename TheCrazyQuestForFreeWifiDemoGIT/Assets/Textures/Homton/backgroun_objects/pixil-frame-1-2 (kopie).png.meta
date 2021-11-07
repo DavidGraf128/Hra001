@@ -1,0 +1,960 @@
+fileFormatVersion: 2
+guid: 337cbf8647b7f45fc96cfbe6a494739f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pixil-frame-1-2 (kopie)_0
+    21300002: pixil-frame-1-2 (kopie)_1
+    21300004: pixil-frame-1-2 (kopie)_2
+    21300006: pixil-frame-1-2 (kopie)_3
+    21300008: pixil-frame-1-2 (kopie)_4
+    21300010: pixil-frame-1-2 (kopie)_5
+    21300012: pixil-frame-1-2 (kopie)_6
+    21300014: pixil-frame-1-2 (kopie)_7
+    21300016: pixil-frame-1-2 (kopie)_8
+    21300018: pixil-frame-1-2 (kopie)_9
+    21300020: pixil-frame-1-2 (kopie)_10
+    21300022: pixil-frame-1-2 (kopie)_11
+    21300024: pixil-frame-1-2 (kopie)_12
+    21300026: pixil-frame-1-2 (kopie)_13
+    21300028: pixil-frame-1-2 (kopie)_14
+    21300030: pixil-frame-1-2 (kopie)_15
+    21300032: pixil-frame-1-2 (kopie)_16
+    21300034: pixil-frame-1-2 (kopie)_17
+    21300036: pixil-frame-1-2 (kopie)_18
+    21300038: pixil-frame-1-2 (kopie)_19
+    21300040: pixil-frame-1-2 (kopie)_20
+    21300042: pixil-frame-1-2 (kopie)_21
+    21300044: pixil-frame-1-2 (kopie)_22
+    21300046: pixil-frame-1-2 (kopie)_23
+    21300048: pixil-frame-1-2 (kopie)_24
+    21300050: pixil-frame-1-2 (kopie)_25
+    21300052: pixil-frame-1-2 (kopie)_26
+    21300054: pixil-frame-1-2 (kopie)_27
+    21300056: pixil-frame-1-2 (kopie)_28
+    21300058: pixil-frame-1-2 (kopie)_29
+    21300060: pixil-frame-1-2 (kopie)_30
+    21300062: pixil-frame-1-2 (kopie)_31
+    21300064: pixil-frame-1-2 (kopie)_32
+    21300066: pixil-frame-1-2 (kopie)_33
+    21300068: pixil-frame-1-2 (kopie)_34
+    21300070: pixil-frame-1-2 (kopie)_35
+    21300072: pixil-frame-1-2 (kopie)_36
+    21300074: pixil-frame-1-2 (kopie)_37
+    21300076: pixil-frame-1-2 (kopie)_38
+    21300078: pixil-frame-1-2 (kopie)_39
+    21300080: pixil-frame-1-2 (kopie)_40
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 166
+        width: 16
+        height: 20
+      alignment: 9
+      pivot: {x: 0, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782aed47928ea44bbb5fe244ff2a2d46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 166
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4a1b7b284814a87b88eeda835f68a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 165
+        width: 25
+        height: 18
+      alignment: 9
+      pivot: {x: -0, y: 0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dac4c13c990f4b4b88ba89ebcbffbea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 165
+        width: 27
+        height: 18
+      alignment: 9
+      pivot: {x: -0, y: 0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87727420554d74596bd73ae78415b1eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 164
+        width: 12
+        height: 22
+      alignment: 9
+      pivot: {x: 0, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c774517b27721471ab333097531dfe03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 165
+        width: 15
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc001ad558b742d88097b38953c2b80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 164
+        width: 16
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89311bb8d529c4737a53fcda9fdb2fbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_7
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 174
+        width: 18
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca5f7979f42c4e37bfb1b4f50d83e02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_8
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 174
+        width: 18
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a063e8b59244bf2957a6fde0de3a39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_9
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 174
+        width: 18
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36735f368d79c47179db560452bc275f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 165
+        width: 10
+        height: 8
+      alignment: 9
+      pivot: {x: -0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8eaa59aefbb46f58a9f1afda0307e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 165
+        width: 12
+        height: 6
+      alignment: 9
+      pivot: {x: 0, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e28124dbcf674df69462c713da00f97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_12
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 166
+        width: 15
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b1eb3f313784aa8b2060db57178eb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 166
+        width: 15
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bc3dabd762244c8a866d27db713a6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_14
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 166
+        width: 15
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c000a865a7354b38a3d065dd91957e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 143
+        width: 15
+        height: 14
+      alignment: 9
+      pivot: {x: -0, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cea3808aa064840839324bf8c09a5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 143
+        width: 16
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9e33b66f166456488e26207ce530a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 143
+        width: 15
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e371979f4aec4686a1e994a53be8e3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_18
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 143
+        width: 16
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44979d1d059544beb3993ce4ca498b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 139
+        width: 12
+        height: 19
+      alignment: 9
+      pivot: {x: -0, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dbdccaffe4d470dbb59d8cc874b192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 142
+        width: 12
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9008135901e31475d87d1632e141284e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_21
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 149
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c953a15c4814a7eb3c58a4dc2928c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 142
+        width: 10
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa473ffdf08744010b8c9498d68d8281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 142
+        width: 17
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12232eb088b5f4b12a18afb8d526c9ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_24
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 143
+        width: 14
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e73bb40090943dc84581f0ef95b208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 143
+        width: 11
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4fafc509dd5405097a2940a032d6de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 143
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6717f0f26e7740598248f2d8a0f9204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_27
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 143
+        width: 11
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d36da25479a148728275289576a82ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_28
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 142
+        width: 22
+        height: 19
+      alignment: 9
+      pivot: {x: 0, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49db5019de184414f94411be2e4160b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_29
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 142
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: -0, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2878f2d8691349309daef235d6279c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_30
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 143
+        width: 11
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2a76804576b4fc89cd777f09d4aa28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_31
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 140
+        width: 12
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c70cfa9cbac3456986228c94ced3b84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_32
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 143
+        width: 10
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaccbb08e7cf4d4997e47483856aa58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 110
+        width: 14
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0.16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2e60caffd6f4f6885a0616a5d77c80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_34
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 107
+        width: 60
+        height: 27
+      alignment: 9
+      pivot: {x: -0, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715b58cd02935412ea8677ba6b9d3335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_35
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 109
+        width: 53
+        height: 20
+      alignment: 9
+      pivot: {x: -0, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2493a763b62c4bfa8e61f5e1bfa0523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_36
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 70
+        width: 76
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedf72bd353ab4c56a0a4df2946a54ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_37
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 108
+        width: 61
+        height: 21
+      alignment: 9
+      pivot: {x: 0, y: 0.1904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32eb617999ebf47d3a8bf9a2c988bc15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_38
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 106
+        width: 51
+        height: 22
+      alignment: 9
+      pivot: {x: -0, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3a64e9232b04e6bb05aa2e346f722c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_39
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 101
+        width: 5
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b2e13e923e74bfd9db65ba701b4e4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-1-2 (kopie)_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 60
+        height: 30
+      alignment: 9
+      pivot: {x: -0, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a046856151e6a4bd18f9ba353cea1b00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 46b934cccb8904cbaaa5dabe3b89a6ba
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
